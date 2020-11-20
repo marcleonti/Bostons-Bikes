@@ -20,6 +20,26 @@ body.body {
     color: black;
 }
 
+div.narrow {
+    margin: auto;
+    padding: 20px;
+    width: 650px;
+    font-family: sans-serif;
+    text-align: left;
+    vertical-align: middle;
+    color: black;
+}
+
+div.moreNarrow {
+    margin: auto;
+    padding: 20px;
+    width: 475px;
+    font-family: sans-serif;
+    text-align: left;
+    vertical-align: middle;
+    color: black;
+}
+
 
 /* TABLES */
 
@@ -68,7 +88,7 @@ table.c23 {
     margin: auto;
 }
 
-table.c26 {
+table.header {
     margin: auto;
     width: 650px;
     text-align: center;
@@ -81,7 +101,7 @@ table.address {
     vertical-align: middle;
     font-size: larger;
     font-weight: bold;
-    width: 900px;
+    width: 800px;
 }
 
 
@@ -93,7 +113,7 @@ td.c1 {
     font-family: impact;
 }
 
-td.c3 {
+td.services {
     font-size: larger;
     font-weight: bold;
     vertical-align: middle;
@@ -171,10 +191,6 @@ img.kawasaki {
     height: 60px;
 }
 
-img.c27 {
-    border: 0;
-}
-
-img.c28 {
+img.star {
     height: 200px;
 }
