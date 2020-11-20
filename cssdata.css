@@ -1,169 +1,181 @@
-:link {color: #000099}
+:link {
+    color: #000099
+}
 
-:visited {color: #000099}
+:visited {
+    color: #000099
+}
 
-:active {color: #000099}  
+:active {
+    color: #000099
+}
 
 body.body {
-	margin: auto;
-	padding: 20px;
-	width: 900px;
-	font-family: sans-serif;
-	text-align: center;
-	vertical-align: middle;
-	color: black; 
-	}
+    margin: auto;
+    padding: 20px;
+    width: 900px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    color: black;
+}
+
 
 /* TABLES */
+
 table.c2 {
-	margin: auto;
-	font-family: impact; 
-}  
+    margin: auto;
+    font-family: impact;
+}
 
 table.c4 {
-	margin: auto;
-	height: 100px; 
-	text-align: left;
-}  
+    margin: auto;
+    height: 100px;
+    text-align: left;
+}
 
 table.highlights {
-	margin: auto;
-	width: 850px;
-	height: 204px; 
-	text-align: left;
-	padding: 10px;
+    margin: auto;
+    width: 850px;
+    height: 204px;
+    text-align: left;
+    padding: 10px;
 }
 
 table.brands {
-	margin: auto;
-	padding-bottom: 10px;
-	height: 70px; 
-	text-align: left;
+    margin: auto;
+    padding-bottom: 10px;
+    height: 70px;
+    text-align: left;
 }
 
 table.c16 {
-	margin: auto;
-	font-style: normal; 
-	font-variant: normal; 
-	font-weight: normal; 
-	font-size: 11px; 
-	line-height: normal;
+    margin: auto;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: normal;
 }
 
 table.19 {
-	border: 1;
-	margin: auto;
-	height: 500px; 
-	text-align: left;
+    border: 1;
+    margin: auto;
+    height: 500px;
+    text-align: left;
 }
 
 table.c23 {
-	margin: auto;
+    margin: auto;
 }
 
 table.c26 {
-	margin: auto;
-	width: 650px;
-	text-align: center;
-	padding-top: 20px;
+    margin: auto;
+    width: 650px;
+    text-align: center;
+    padding-top: 20px;
 }
 
 table.address {
-	margin: auto;
-	text-align: center;
-	vertical-align: middle; 
-	font-size: larger;
-	font-weight: bold;
-	width: 900px;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    font-size: larger;
+    font-weight: bold;
+    width: 900px;
 }
 
+
 /* CELL DATA */
+
 td.c1 {
-	vertical-align: middle; 
-	text-align: center; 
-	font-family: impact;
+    vertical-align: middle;
+    text-align: center;
+    font-family: impact;
 }
 
 td.c3 {
-	font-size: larger;
-	font-weight: bold;
-	vertical-align: middle;
+    font-size: larger;
+    font-weight: bold;
+    vertical-align: middle;
 }
 
 td.links {
-	font-size: larger;
-	vertical-align: top;
-	text-align: left;
-} 
+    font-size: larger;
+    vertical-align: top;
+    text-align: left;
+}
 
 td.c14 {
-	font-weight: bold;
-}  
+    font-weight: bold;
+}
 
 td.c15 {
-	text-align: center; 
-	padding-top: 10px;
+    text-align: center;
+    padding-top: 10px;
 }
 
 td.c18 {
-	width: 725px; 
-	vertical-align: top; 
-	text-align: left; 
-	font-size: 20px;
+    width: 725px;
+    vertical-align: top;
+    text-align: left;
+    font-size: 20px;
 }
 
 td.c21 {
-	vertical-align: bottom;
+    vertical-align: bottom;
 }
 
 td.c22 {
-	vertical-align: top;
-	text-align: center;
-	padding: 20px;
+    vertical-align: top;
+    text-align: center;
+    padding: 20px;
 }
 
 td.c24 {
-	width:700px;
+    width: 700px;
 }
 
 td.c25 {
-	width:100px;
-	text-align: right;
+    width: 100px;
+    text-align: right;
 }
 
+
 /* IMAGES */
-img.logo{
-	height: 95px;
+
+img.logo {
+    height: 95px;
 }
 
 img.yamaha {
-	padding: 10px;
-	width: 287px;
-	height: 63px;
+    padding: 10px;
+    width: 287px;
+    height: 63px;
 }
 
 img.honda {
-	padding: 10px;
-	width: 72px; 
-	height: 60px;
+    padding: 10px;
+    width: 72px;
+    height: 60px;
 }
 
 img.suzuki {
-	padding: 10px;
-	width: 288px; 
-	height: 62px;
+    padding: 10px;
+    width: 288px;
+    height: 62px;
 }
 
 img.kawasaki {
-	padding: 10px;
-	width: 155px; 
-	height: 60px;
-}  
+    padding: 10px;
+    width: 155px;
+    height: 60px;
+}
 
 img.c27 {
-	border: 0;
+    border: 0;
 }
 
 img.c28 {
-	height: 200px;
+    height: 200px;
 }
